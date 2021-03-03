@@ -1,0 +1,10 @@
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\bin\Debug\bulutBilisimFinal.exe.config
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\bin\Debug\bulutBilisimFinal.exe
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\bin\Debug\bulutBilisimFinal.pdb
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\obj\Debug\bulutBilisimFinal.csprojAssemblyReference.cache
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\obj\Debug\bulutBilisimFinal.Form1.resources
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\obj\Debug\bulutBilisimFinal.Properties.Resources.resources
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\obj\Debug\bulutBilisimFinal.csproj.GenerateResource.cache
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\obj\Debug\bulutBilisimFinal.csproj.CoreCompileInputs.cache
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\obj\Debug\bulutBilisimFinal.exe
+C:\Users\simge\source\repos\bulutBilisimFinal\bulutBilisimFinal\obj\Debug\bulutBilisimFinal.pdb
